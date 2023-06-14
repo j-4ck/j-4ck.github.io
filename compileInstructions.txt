@@ -1,0 +1,6 @@
+git add .
+git commit -m ""
+git push
+bundle install
+
+// clear cache in browser
