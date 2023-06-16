@@ -11,4 +11,4 @@ Since I was 12 years old I have been in love with programming. During my 7 year 
 
 The aim of the blog
 ======
-The aim of the blog is to give me somewhere to document my findings in software, somewhere I can highlight vulnerabilities in devices and give documentation based on up-and-coming exploits. I have always been a fan of pushing [IOT](https://en.wikipedia.org/wiki/Internet_of_things) to their boundaries and exposing design flaws in the software - now I finally have somewhere I can note down my findings, and perhaps they will be of interest to anyone else out there.
+The aim of the blog is to give me somewhere to document my findings in software, somewhere I can highlight vulnerabilities in devices and give documentation based on up-and-coming exploits. I have always been a fan of pushing [IOT](https://en.wikipedia.org/wiki/Internet_of_things) to their boundaries and exposing design flaws in the software - now I finally have somewhere I can note down my findings, and perhaps they will be of interest to anyone else out there. You can check my [blog posts](/year-archive) here.
