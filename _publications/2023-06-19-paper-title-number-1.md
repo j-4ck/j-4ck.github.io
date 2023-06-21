@@ -5,8 +5,8 @@ permalink: /publication/2023-06-19-paper-title-number-1
 excerpt: 'This paper is about CVE-2023-27350'
 date: 2023-06-19
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: ''
+citation: 'Splunk https://www.splunk.com/en_us/blog/security/don-t-get-a-papercut-analyzing-cve-2023-27350.html, Papercut https://www.papercut.com/blog/news/rce-security-exploit-in-papercut-servers/'
 ---
 
 This paper is about CVE-2023-27350, the new RCE exploit for print management service PaperCut NG
@@ -30,5 +30,3 @@ How does the exploit work?
 ------
 
 Many proof of concept exploits for this vulnerablity have since been released, including a neat metasploit rip and extensive documentation online - meaning we can really get into the nitty-gritty of what's going on here.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
