@@ -2,7 +2,7 @@
 title: "Papercut NG RCE"
 collection: publications
 permalink: /publication/2023-06-19-paper-title-number-1
-excerpt: 'This paper is about CVE-2023-27350'
+excerpt: 'This paper is about CVE-2023-27350, AKA PapercutNG/MF RCE'
 date: 2023-06-19
 venue: 'Journal 1'
 paperurl: ''
