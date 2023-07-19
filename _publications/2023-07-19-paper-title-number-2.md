@@ -79,4 +79,6 @@ Conclusion
 CVE-2022-26965 is not wildly complicated, although issues like this are not to be overlooked within CMS' etc. They are still potentially dangerous attacks that can put the data of yourself or others at risk.
 Again thank you to Ashish Koli for the initial POC which allowed me to build the full stager. I will release my version of the POC to my github shortly.
 
+(NOTE: Source code is now available at https://github.com/j-4ck/PluckCMS)
+
 Thanks for reading, I am available at jackp0tter@protonmail.ch
