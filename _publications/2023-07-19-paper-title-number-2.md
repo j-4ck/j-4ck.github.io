@@ -13,7 +13,7 @@ This paper is about CVE-2022-26965, an authenticated remote code execution explo
 ------
 
 I would first like to thank Ashish Koli for his documentation online about the vulnerability and exploit proof of concept.
-Pluck has many CVEs, though I was unable to recreate CVE-2023-25828 (RCE via Pluck's "Albums" module) on my system, which had left me in a bad mood. This iis what led me to approaching the RCE via the Themes module for Pluck.
+Pluck has many CVEs, though I was unable to recreate CVE-2023-25828 (RCE via Pluck's "Albums" module) on my system, which had left me in a bad mood. This is what led me to approaching the RCE via the Themes module for Pluck.
 
 How does CVE-2022-26965 work?
 ------
@@ -37,11 +37,12 @@ Shall we take a look at the script?
 
 Luckily for me, I could build off of the initial exploit POC found [here](https://github.com/shikari00007/Pluck-CMS-Pluck-4.7.16-Theme-Upload-Remote-Code-Execution-Authenticated--POC).
 I had to make some initial changes to the original POC since I couldn't get it to work.
-Then, I begun to work on automating the first stages listed above. Another thing
+Then, I began to work on automating the first stages listed above. Another thing
 I realised is that I couldn't trigger the injected PHP to run by navigating to /data/themes such as in the example - but instead by going to the theme
 uninstall page (which triggers the injected info.php to run).
 
 So the first piece of code we need to look at for this stager is the function injectTheme() (below)
+
 ![injectTheme](/images/pluck1.JPG)
 
 As you can see I use shutil to unpack the theme at first but the tarfile module to repack it.
@@ -64,7 +65,7 @@ This means now we can execute the whole stage like this:
 Exploitation and notes
 ------
 
-If we go to the URL stated in the output, we can see we have our shell. albeit rendered slightly wrong, but functioning
+If we go to the URL stated in the output, we can see we have our shell. Albeit rendered slightly wrong, but functioning
 ![shellOutput](/images/pluck5.JPG)
 
 Since all stages of the attack are automated now, the only data you need before carrying out an attack is:
