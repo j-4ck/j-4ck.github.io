@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Since I was 12 years old I have been in love with programming. During my 7 year entanglement I have been able to explore many fields, and find out what I love the most. This started off as general data storage and management but quickly expanded into the world of cyber security from the age of 14. This led to my great understanding of networking and systems architecture, and also made it easier for me to learn more programming languages now that I had the mind of a programmer. Due to this, I spent a few more years teaching myself many languages such as Python, Golang, C++ just to name a few.
+Since I was 12 years old I have been in love with programming. During my almost decade long entanglement I have been able to explore many fields, and find out what I love the most. This started off as general data storage and management but quickly expanded into the world of cyber security from the age of 14. This led to my great understanding of networking and systems architecture, and also made it easier for me to learn more programming languages now that I was able to approach challenges programmatically. Due to this, I spent a few more years teaching myself many languages such as Python and Golang.
 
 The aim of the blog
 ======
