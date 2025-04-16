@@ -11,7 +11,7 @@ This project aimed to fine tune and automate marketing + engagement with social 
 Problem
 -------
 
-In 2023, a successful social media manager contacted me requiring real time local analytics on his clients and sales through a popular social media platform online. The only specification was that the software should run in the form of a chrome extension (which sadly meant more JavaScript). The data was to be mapped in multiple relational excel spreadsheets 
+In 2023, a successful social media manager contacted me requiring real time local analytics on his clients and sales through a popular social media platform online. The only specification was that the software should run in the form of a chrome extension (which sadly meant more JavaScript). The data was to be mapped in multiple relational excel spreadsheets.
 
 Solution
 -------
