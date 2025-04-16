@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item 1"
-excerpt: "Goland p2p blockchain pharmacy backend<br/><img src='/images/blockchain.jpg'>"
+excerpt: "Golang p2p blockchain pharmacy backend<br/><img src='/images/blockchain.jpg'>"
 collection: portfolio
 date: 2021-01-15
 ---
