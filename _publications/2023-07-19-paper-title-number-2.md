@@ -8,7 +8,6 @@ venue: 'Journal 2'
 paperurl: ''
 citation: 'https://www.youtube.com/watch?v=sN6J_X4mEbY'
 ---
-Hello world
 This paper is about CVE-2022-26965, an authenticated remote code execution exploit for Plunk content management system
 ------
 
