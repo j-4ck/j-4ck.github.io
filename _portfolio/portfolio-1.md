@@ -2,16 +2,16 @@
 title: "Portfolio item 1"
 excerpt: "Golang p2p blockchain pharmacy backend<br/><img src='/images/blockchain.jpg'>"
 collection: portfolio
-date: 2021-01-15
+date: 2025-04-16
 ---
 
-One of my more successful freelance projects was creating a [p2p](https://en.wikipedia.org/wiki/Peer-to-peer) decentralized backend service for an existing pharmacy
+One of my more successful freelance projects was creating a [p2p](https://en.wikipedia.org/wiki/Peer-to-peer) decentralized backend service for an existing pharmacy.
 
 
 Problem
 -------
 
-A client approached me with the need for a service that could process orders for certain chemicals/ pharmaceutical drugs and prevent tampering with orders. They specified the deployment should be written in (GoLang)[https://go.dev/] and be able to ensure that there was no way to alter/ re-process old orders. Understandably this is a valid concern based on the context, so we concluded that we would opt for a blockchain data structure for our solution. This is due to the fact that in these structures, every "block" (or data item) is reliant on the last (hence "chain"). If one item is tampered with, the chain is broken.
+In 2021, client approached me with the need for a service that could process orders for certain chemicals/ pharmaceutical drugs and prevent tampering with orders. They specified the deployment should be written in [GoLang](https://go.dev/) and be able to ensure that there was no way to alter/ re-process old orders. Understandably this is a valid concern based on the context, so we concluded that we would opt for a blockchain data structure for our solution. This is due to the fact that in these structures, every "block" (or data item) is reliant on the last (hence "chain"). If one item is tampered with, the chain is broken.
 
 Solution
 -------
