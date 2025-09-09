@@ -11,4 +11,4 @@ redirect_from:
 Languages: Python, Golang, SQL
 
 
-You can check my [Publications](/publications) here, and I am available for contact via jackp0tter@protonmail.ch
+You can check my [publications](/publications) here, and I am available for contact via jackp0tter@protonmail.ch
