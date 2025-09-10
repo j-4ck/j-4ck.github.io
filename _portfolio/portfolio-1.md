@@ -16,7 +16,7 @@ One day a client approached me with the need for a service that could process or
 Solution
 -------
 
-For this project I designed a very simple web interface that I wrote in HTML/CSS/JavaScript that allowed authorized identities to create orders. The orders were then parsed by my Go backend which added "blocks" to the specified peer network, where multiple copies of the chain were held to build trust. This solution was very simple but often simple solutions are simply the best
+For this project I designed a very simple web interface that I wrote in HTML/CSS/JavaScript that allowed authorized identities to create orders. The orders were then parsed by my Go backend which added "blocks" to the specified peer network, where multiple copies of the chain were held to build trust. This solution was very simple but often simple solutions are the best
 
 Notes
 -------
